@@ -1,5 +1,3 @@
-Header
-
 # Обо мне:
 <div style="border-left: solid green 2px; padding: 20px">
 <b>Я начинающий Data scientist, постигающий бесконечные просторы науки о данных👋.</b>    
