@@ -24,6 +24,7 @@
 ### 💼 Projects:
 | Title | Skills | Description |
 | ---------------- | -------- | ----------------------- |
+| [Malware classification service](https://github.com/Mikhail-Repkin/LLMStackOverflowRAG) | `LLM` `RAG` `FastApi` `Programming` `MLOps` `Milvus` `langchain` `streamlit` | A system based on Retrieval-Augmented Generation (RAG), which will help the user cope with his errors/problems (similar to answers on StackOverflow). The assistant will use a database based on answers from StackOverflow answers. |
 | [Malware classification service](https://github.com/Mikhail-Repkin/malware-classification-service) | `ML` `FastApi` `Programming` `MLOps` `sqlalchemy` `RQ` `streamlit` | This service is designed for classifying malicious and benign software on Android mobile devices. |
 | [News classifier ](https://huggingface.co/MikhailRepkin/news_classifier) | `DL` `NLP` `MLOps` `classification` | "News classifier" is a fine-tuned model designed for binary classifying (news/not news) from various Russian-language Telegram channels. This model can be integrated into a news aggregation service. |
 | [Text fragment extraction](https://github.com/Mikhail-Repkin/Projects/tree/main/1_NLP_QA) | `NLP` `Question-Answering` | A machine learning model that can extract the relevant fragment from a document's text. |
